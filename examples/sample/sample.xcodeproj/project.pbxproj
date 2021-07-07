@@ -14,7 +14,7 @@
 		8406D857268C875000307DA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8406D856268C875000307DA0 /* Assets.xcassets */; };
 		8406D85A268C875000307DA0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8406D858268C875000307DA0 /* LaunchScreen.storyboard */; };
 		8406D85D268C875000307DA0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8406D85C268C875000307DA0 /* main.m */; };
-		842F071C269431DB007F6F0D /* LexActivator.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 842F071B269431DB007F6F0D /* LexActivator.xcframework */; };
+		84EDC11026957F9B00C29961 /* LexActivator.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84EDC10F26957F9B00C29961 /* LexActivator.xcframework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,7 +43,7 @@
 		8406D859268C875000307DA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8406D85B268C875000307DA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8406D85C268C875000307DA0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		842F071B269431DB007F6F0D /* LexActivator.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = LexActivator.xcframework; path = sample/LexActivator.xcframework; sourceTree = "<group>"; };
+		84EDC10F26957F9B00C29961 /* LexActivator.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = LexActivator.xcframework; path = sample/LexActivator.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,7 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				842F071C269431DB007F6F0D /* LexActivator.xcframework in Frameworks */,
+				84EDC11026957F9B00C29961 /* LexActivator.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -96,7 +96,7 @@
 		8406D865268D9A3E00307DA0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				842F071B269431DB007F6F0D /* LexActivator.xcframework */,
+				84EDC10F26957F9B00C29961 /* LexActivator.xcframework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
